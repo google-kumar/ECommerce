@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1TeCh9sbmiJrjQuitqHb0fjeFipQ69rvuFCSfr3HfaWWq35xSjRA+XAlaBNFOsd4NyJZxKUbWYcF1LzM+1wwZA==",
+  "dgSpecHash": "1a+wMktpgzdamOYX9nv+RQSBVnThbp4HLpXFmeEjfYmNL99ZcG2tJox6xiL0woIWEVfwgBK6R9jKqDm3NjkCTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\ECommerceProject\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Udemy 2\\ECommerce\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

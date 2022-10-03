@@ -2,9 +2,9 @@
 
 #nullable disable
 
-namespace Infrastructure.Data.Migrations
+namespace ECommerceAPI.Migrations
 {
-    public partial class firstmigration : Migration
+    public partial class OnlineStore : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\ECommerceProject\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Udemy 2\\ECommerce\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\ECommerceProject\\ECommerceAPI\\Core\\Core.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Udemy 2\\ECommerce\\ECommerceAPI\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ECommerceProject\\ECommerceAPI\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Udemy 2\\ECommerce\\ECommerceAPI\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\ECommerceProject\\ECommerceAPI\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Udemy 2\\ECommerce\\ECommerceAPI\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\ECommerceProject\\ECommerceAPI\\Core\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Udemy 2\\ECommerce\\ECommerceAPI\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,8 +61,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -71,18 +70,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Admin\\source\\repos\\ECommerceProject\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Udemy 2\\ECommerce\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ECommerceProject\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Udemy 2\\ECommerce\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI.csproj",
         "projectName": "ECommerceAPI",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\ECommerceProject\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Udemy 2\\ECommerce\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\ECommerceProject\\ECommerceAPI\\ECommerceAPI\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Udemy 2\\ECommerce\\ECommerceAPI\\ECommerceAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -99,8 +98,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\source\\repos\\ECommerceProject\\ECommerceAPI\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\ECommerceProject\\ECommerceAPI\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\Admin\\Desktop\\Udemy 2\\ECommerce\\ECommerceAPI\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Udemy 2\\ECommerce\\ECommerceAPI\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -140,8 +139,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -153,18 +151,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Admin\\source\\repos\\ECommerceProject\\ECommerceAPI\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Udemy 2\\ECommerce\\ECommerceAPI\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ECommerceProject\\ECommerceAPI\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Udemy 2\\ECommerce\\ECommerceAPI\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\ECommerceProject\\ECommerceAPI\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Udemy 2\\ECommerce\\ECommerceAPI\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\ECommerceProject\\ECommerceAPI\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Udemy 2\\ECommerce\\ECommerceAPI\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -181,8 +179,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\source\\repos\\ECommerceProject\\ECommerceAPI\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\ECommerceProject\\ECommerceAPI\\Core\\Core.csproj"
+              "C:\\Users\\Admin\\Desktop\\Udemy 2\\ECommerce\\ECommerceAPI\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Udemy 2\\ECommerce\\ECommerceAPI\\Core\\Core.csproj"
               }
             }
           }
@@ -218,8 +216,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -228,7 +225,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

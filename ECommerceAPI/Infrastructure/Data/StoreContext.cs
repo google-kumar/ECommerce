@@ -1,7 +1,7 @@
-﻿using Core.Models;
+﻿using ECommerceAPI.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace Infrastructure.Data
+namespace ECommerceAPI.Data
 {
     public class StoreContext : DbContext
     {

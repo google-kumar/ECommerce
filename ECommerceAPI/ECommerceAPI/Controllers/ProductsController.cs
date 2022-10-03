@@ -1,5 +1,5 @@
-﻿using Core.Models;
-using Infrastructure.Data;
+﻿using ECommerceAPI.Models;
+using ECommerceAPI.Data;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;

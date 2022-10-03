@@ -1,4 +1,4 @@
-﻿namespace Core.Models
+﻿namespace ECommerceAPI.Models
 {
     public class Product
     {
