@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "a5zm5lhXS96xDVlBB+BmD0ivxIVxgKtdOC/kLTdLafkkELIeeuzjdE//Ic9v2pimn7X10yHTnPpaOv+5c+/QzQ==",
+  "dgSpecHash": "ta6u7/7ad6xvY5bsPSvJG+IB/SnGuiZykXOllHmiuZKnDT19gFzqGiOAn++J8HbK656ej07egB1CwTs3Q9VK7w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Desktop\\Udemy 2\\ECommerce\\ECommerceAPI\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.9\\microsoft.entityframeworkcore.6.0.9.nupkg.sha512",
